@@ -6,6 +6,7 @@
 
 html {
   block-size: 100%;
+<<<<<<< HEAD
   font-family: 'Fira Sans Condensed';
 }
 
@@ -37,6 +38,8 @@ blockquote,
 html {
   block-size: 100%;
   font-family: 'Fira Sans Condensed';
+=======
+>>>>>>> c536e6ce6ce7c0372276403e88bd1d70b8552482
 }
 
 .page {
@@ -59,6 +62,7 @@ ol,
 li,
 blockquote,
 fieldset {
+<<<<<<< HEAD
   font-family: 'Oswald';
   margin: 0;
   padding: 0;
@@ -94,6 +98,8 @@ p {
 }
 fieldset {
   font-family: 'Oswald';
+=======
+>>>>>>> c536e6ce6ce7c0372276403e88bd1d70b8552482
   margin: 0;
   padding: 0;
 }
@@ -103,6 +109,21 @@ ol {
   list-style: none;
 }
 
+<<<<<<< HEAD
 a{
   text-decoration: none;
 }
+=======
+/* Кастомный скроллбар */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgb(217 217 217 / 10%);
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #D9D9D9;
+}
+>>>>>>> c536e6ce6ce7c0372276403e88bd1d70b8552482
